@@ -1,5 +1,8 @@
 ### Hi there 👋
-Im just a student at DTU fumbling about
+I am a guy doing his Master's in Digital Electronics.
+Currently trying to learn System Verilog.
+Living in München. 
+
 <!--
 **OttoWRas/OttoWRas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
