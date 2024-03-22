@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a guy doing his Master's in Digital Electronics.
-Currently trying to learn System Verilog.
-Living in München. 
+I am a guy doing his Master's in Computer engeneering at DTU / TUM.
+Currently working on ML compilers and accelerators.
+Living in Copenhagen. 
 
 <!--
 **OttoWRas/OttoWRas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
